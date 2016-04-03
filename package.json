@@ -1,0 +1,11 @@
+{
+  "name": "first-app",
+  "version": "0.0.1",
+  "dependencies": {
+    "handlebars": "^4.0.5",
+    "hapi": "^13.2.2",
+    "hoek": "^3.0.4",
+    "sendgrid": "^2.0.0",
+    "vision": "^4.0.1"
+  }
+}
